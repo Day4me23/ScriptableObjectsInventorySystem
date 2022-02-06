@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76548610687cb4b42b7f8faed58b5300, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  name: Axe
+  description: A very damaged axe
+  icon: {fileID: 21300000, guid: d69b3d2126ca599449d43b95df828fb2, type: 3}
+  damage: 10
+  durability: 50
