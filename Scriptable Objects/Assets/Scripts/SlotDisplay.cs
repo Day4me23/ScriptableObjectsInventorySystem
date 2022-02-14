@@ -20,6 +20,25 @@ public class SlotDisplay : MonoBehaviour
 
         artworkImage.sprite = item.icon;
         damageText.text = "Damage: " + item.damage;
-        durabilityText.text = item.durability.ToString();
+        durabilityText.text = "Durability: " + item.durability;
     }
 }
+
+/*public enum ItemType
+{Weapon, Gear, Spell};
+
+switch (type)
+{
+    case ItemType.Weapon:
+        Print content/show content in UI 
+        break;
+    case ItemType.Gear:
+        Print content/show content in UI
+        break;
+    case ItemType.Spell:
+        Print content/show content in UI
+        break;
+    default:
+        Not needed but good to have in this instance
+        break;
+}*/

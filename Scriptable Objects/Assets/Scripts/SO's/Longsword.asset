@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Longsword
   m_EditorClassIdentifier: 
   name: Longsword
-  description: A longsword smithed by the paladins of Londor
+  description: A mighty sharpened longsword
   icon: {fileID: 21300000, guid: 4ad16adfdf2d1a441879a598de742eb6, type: 3}
   damage: 20
   durability: 90
